@@ -1,0 +1,12 @@
+#table-vocabulary, #message-load-xml {
+	width: 700px;
+	margin: 20px auto;
+}
+
+table thead tr:last-child {
+	text-align: right;
+}
+#load-xml {
+	margin: 20px auto;
+	width: 400px;
+}

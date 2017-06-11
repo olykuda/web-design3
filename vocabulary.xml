@@ -1,0 +1,137 @@
+<VOCABULARY>
+	<COUPLE>
+		<id>0</id>
+		<UKRAINIAN>Мотор!</UKRAINIAN>
+		<ENGLISH>Action!</ENGLISH>
+	</COUPLE>
+	<COUPLE>
+		<id>1</id>
+		<UKRAINIAN>бойовик</UKRAINIAN>
+		<ENGLISH>action movie</ENGLISH>
+	</COUPLE>
+	<COUPLE>
+		<id>2</id>
+		<UKRAINIAN>актор</UKRAINIAN>
+		<ENGLISH>actor</ENGLISH>
+	</COUPLE>
+	<COUPLE>
+		<id>3</id>
+		<UKRAINIAN>пригодницький фільм</UKRAINIAN>
+		<ENGLISH>adventure film</ENGLISH>
+	</COUPLE>
+	<COUPLE>
+		<id>4</id>
+		<UKRAINIAN>за кулісами</UKRAINIAN>
+		<ENGLISH>backstage</ENGLISH>
+	</COUPLE>
+	<COUPLE>
+		<id>5</id>
+		<UKRAINIAN>чорно-білий фільм</UKRAINIAN>
+		<ENGLISH>black-and-white film</ENGLISH>
+	</COUPLE>
+	<COUPLE>
+		<id>6</id>
+		<UKRAINIAN>акторський склад</UKRAINIAN>
+		<ENGLISH>cast</ENGLISH>
+	</COUPLE>
+	<COUPLE>
+		<id>7</id>
+		<UKRAINIAN>каса</UKRAINIAN>
+		<ENGLISH>box office</ENGLISH>
+	</COUPLE>
+	<COUPLE>
+		<id>8</id>
+		<UKRAINIAN>оператор</UKRAINIAN>
+		<ENGLISH>cameraman</ENGLISH>
+	</COUPLE>
+	<COUPLE>
+		<id>9</id>
+		<UKRAINIAN>титри</UKRAINIAN>
+		<ENGLISH>caption</ENGLISH>
+	</COUPLE>
+	<COUPLE>
+		<id>10</id>
+		<UKRAINIAN>мультфільм</UKRAINIAN>
+		<ENGLISH>cartoon</ENGLISH>
+	</COUPLE>
+	<COUPLE>
+		<id>11</id>
+		<UKRAINIAN>перонаж</UKRAINIAN>
+		<ENGLISH>character</ENGLISH>
+	</COUPLE>
+	<COUPLE>
+		<id>12</id>
+		<UKRAINIAN>крупний план</UKRAINIAN>
+		<ENGLISH>Bob Dylan</ENGLISH>
+	</COUPLE>
+	<COUPLE>
+		<id>13</id>
+		<UKRAINIAN>детектив</UKRAINIAN>
+		<ENGLISH>crime film</ENGLISH>
+	</COUPLE>
+	<COUPLE>
+		<id>14</id>
+		<UKRAINIAN>знімальна группа</UKRAINIAN>
+		<ENGLISH>crew</ENGLISH>
+	</COUPLE>
+	<COUPLE>
+		<id>15</id>
+		<UKRAINIAN>Знято!</UKRAINIAN>
+		<ENGLISH>Cut!</ENGLISH>
+	</COUPLE>
+	<COUPLE>
+		<id>16</id>
+		<UKRAINIAN>режисер</UKRAINIAN>
+		<ENGLISH>director</ENGLISH>
+	</COUPLE>
+	<COUPLE>
+		<id>17</id>
+		<UKRAINIAN>згадки героя</UKRAINIAN>
+		<ENGLISH>flash-back</ENGLISH>
+	</COUPLE>
+	<COUPLE>
+		<id>18</id>
+		<UKRAINIAN>художній фільм</UKRAINIAN>
+		<ENGLISH>feature film</ENGLISH>
+	</COUPLE>
+	<COUPLE>
+		<id>19</id>
+		<UKRAINIAN>грим</UKRAINIAN>
+		<ENGLISH>makeup</ENGLISH>
+	</COUPLE>
+	<COUPLE>
+		<id>20</id>
+		<UKRAINIAN>мюзикл</UKRAINIAN>
+		<ENGLISH>musical</ENGLISH>
+	</COUPLE>
+	<COUPLE>
+		<id>21</id>
+		<UKRAINIAN>жахи</UKRAINIAN>
+		<ENGLISH>horror</ENGLISH>
+	</COUPLE>
+	<COUPLE>
+		<id>22</id>
+		<UKRAINIAN>німе кіно</UKRAINIAN>
+		<ENGLISH>mute film</ENGLISH>
+	</COUPLE>	
+	<COUPLE>
+		<id>23</id>
+		<UKRAINIAN>сюжет</UKRAINIAN>
+		<ENGLISH>plot</ENGLISH>
+	</COUPLE>
+	<COUPLE>
+		<id>24</id>
+		<UKRAINIAN>продюсер</UKRAINIAN>
+		<ENGLISH>producer</ENGLISH>
+	</COUPLE>
+	<COUPLE>
+		<id>25</id>
+		<UKRAINIAN>екран</UKRAINIAN>
+		<ENGLISH>screen</ENGLISH>
+	</COUPLE>
+	<COUPLE>
+		<id>26</id>
+		<UKRAINIAN>декорації</UKRAINIAN>
+		<ENGLISH>sets</ENGLISH>
+	</COUPLE>
+</VOCABULARY>
